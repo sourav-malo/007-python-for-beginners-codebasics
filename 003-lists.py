@@ -6,7 +6,7 @@ evenNums.append(8)
 print(evenNums)
 
 evenNums.insert(0, 0)
-print(evenNums)
+print(evenNums) 
 
 print(len(evenNums))
 
